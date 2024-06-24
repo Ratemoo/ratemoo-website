@@ -1,3 +1,18 @@
 body{
-    background: blue;
+    background: rgb(0, 255, 242);
+}
+#one{
+    color: red;
+}
+h2{
+    color: red;
+}
+table,th,td{
+    border:1px solid
+}
+table{
+    width:100px
+}
+th{
+ text-align: left;
 }
